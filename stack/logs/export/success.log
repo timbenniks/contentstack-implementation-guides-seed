@@ -48,4 +48,4 @@
 {"level":"info","message":"Starting marketplace app export"}
 {"level":"info","message":"No marketplace apps found"}
 {"level":"info","message":"The content of the stack blte766efb491f96715 has been exported successfully!"}
-{"level":"info","message":"The log has been stored at '/Users/tim.benniks/Websites/contentstack-implementation-guides/packages/contentstack-implementation-guides-seed/logs/export'"}
+{"level":"info","message":"The log has been stored at '/Users/tim.benniks/Websites/stack/logs/export'"}
