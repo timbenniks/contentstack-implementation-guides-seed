@@ -1,0 +1,51 @@
+{"level":"info","message":"Started to export content, version is 2"}
+{"level":"info","message":"Starting export of stack module"}
+{"level":"info","message":"Starting export of assets module"}
+{"level":"info","message":"Batch No. 1 of assets is complete."}
+{"level":"info","message":"Assets metadata exported successfully.!"}
+{"level":"info","message":"Downloaded icon.png: blt27f88a756be95c11 successfully!"}
+{"level":"info","message":"Batch No. 1 of assets download is complete."}
+{"level":"info","message":"Assets download completed successfully.!"}
+{"level":"info","message":"Assets exported successfully.!"}
+{"level":"info","message":"Starting export of locales module"}
+{"level":"info","message":"Starting locale export"}
+{"level":"info","message":"Completed locale export"}
+{"level":"info","message":"Starting export of environments module"}
+{"level":"info","message":"Starting environment export"}
+{"level":"info","message":"'preview' environment was exported successfully"}
+{"level":"info","message":"All the environments have been exported successfully!"}
+{"level":"info","message":"Starting export of extensions module"}
+{"level":"info","message":"Starting extension export"}
+{"level":"info","message":"No extensions found"}
+{"level":"info","message":"Starting export of webhooks module"}
+{"level":"info","message":"Starting webhooks export"}
+{"level":"info","message":"No webhooks found"}
+{"level":"info","message":"Starting export of taxonomies module"}
+{"level":"info","message":"Starting taxonomies export"}
+{"level":"info","message":"No taxonomies found!"}
+{"level":"info","message":"Starting export of global-fields module"}
+{"level":"info","message":"Starting global fields export"}
+{"level":"info","message":"Completed global fields export"}
+{"level":"info","message":"Starting export of content-types module"}
+{"level":"info","message":"Starting content type export"}
+{"level":"info","message":"Content type(s) exported successfully"}
+{"level":"info","message":"Starting export of custom-roles module"}
+{"level":"info","message":"Starting custom roles export"}
+{"level":"info","message":"No custom roles were found in the Stack"}
+{"level":"info","message":"Starting export of workflows module"}
+{"level":"info","message":"Starting workflows export"}
+{"level":"info","message":"No workflows found"}
+{"level":"info","message":"Starting export of personalization module"}
+{"level":"info","message":"Skipping Personalize project export, personalize url is not set"}
+{"level":"info","message":"Starting export of entries module"}
+{"level":"info","message":"Starting entries export"}
+{"level":"info","message":"Exported entries of type 'page' locale 'en-us'"}
+{"level":"info","message":"Entries exported successfully"}
+{"level":"info","message":"Starting export of labels module"}
+{"level":"info","message":"Starting labels export"}
+{"level":"info","message":"No labels found"}
+{"level":"info","message":"Starting export of marketplace-apps module"}
+{"level":"info","message":"Starting marketplace app export"}
+{"level":"info","message":"No marketplace apps found"}
+{"level":"info","message":"The content of the stack blte766efb491f96715 has been exported successfully!"}
+{"level":"info","message":"The log has been stored at '/Users/tim.benniks/Websites/contentstack-implementation-guides/packages/contentstack-implementation-guides-seed/logs/export'"}
