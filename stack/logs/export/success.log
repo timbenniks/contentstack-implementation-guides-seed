@@ -3,6 +3,7 @@
 {"level":"info","message":"Starting export of assets module"}
 {"level":"info","message":"Batch No. 1 of assets is complete."}
 {"level":"info","message":"Assets metadata exported successfully.!"}
+{"level":"info","message":"Downloaded csLogo_640x360.jpg: bltf5c0011e24c4d121 successfully!"}
 {"level":"info","message":"Downloaded icon.png: blt27f88a756be95c11 successfully!"}
 {"level":"info","message":"Batch No. 1 of assets download is complete."}
 {"level":"info","message":"Assets download completed successfully.!"}
@@ -48,4 +49,4 @@
 {"level":"info","message":"Starting marketplace app export"}
 {"level":"info","message":"No marketplace apps found"}
 {"level":"info","message":"The content of the stack blte766efb491f96715 has been exported successfully!"}
-{"level":"info","message":"The log has been stored at '/Users/tim.benniks/Websites/stack/logs/export'"}
+{"level":"info","message":"The log has been stored at '/Users/tim.benniks/Desktop/stack/logs/export'"}
