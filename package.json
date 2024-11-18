@@ -1,6 +1,6 @@
 {
   "name": "contentstack-implementation-guides-seed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This repository aims to provide sample stack content to users for the implementation of the implementation guides examples. An easy way to import this stack content is by using the seed command.",
   "repository": {
     "type": "git",

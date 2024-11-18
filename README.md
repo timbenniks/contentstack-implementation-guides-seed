@@ -6,7 +6,7 @@ This repository aims to provide sample stack content to users for the implementa
 
 To import this content to your stack, perform the following steps:
 
-### 1. Install the CLI
+### Install the CLI
 
 Install the CLI by running the following command in your terminal:
 
@@ -14,7 +14,7 @@ Install the CLI by running the following command in your terminal:
 npm i -g @contentstack/cli
 ```
 
-### 2. Set your region
+### Set your region
 
 By default, CLI uses the North America region. Based on where your Organization resides change this.
 Run this command in your terminal (a list of options will show):
@@ -23,7 +23,7 @@ Run this command in your terminal (a list of options will show):
 csdx config:set:region
 ```
 
-### 3. Authenticate
+### Authenticate
 
 Next, log in to your Contentstack account via CLI:
 
@@ -31,7 +31,7 @@ Next, log in to your Contentstack account via CLI:
 csdx auth:login
 ```
 
-### 4. Seed your stack
+### Seed your stack
 
 To be able to seed a new Stack, find your Organization UID in Contentstack.
 
